@@ -113,5 +113,9 @@ required decorative finish.
 
 The LED greeting card demonstrates how a simple 3 V DC power source can be combined with an LED and basic conductive connections to create a useful and attractive electronic product. The project integrates basic electrical engineering with paper-based product design.
 
-![](Result.jpeg) 
+
+![](result.jpeg) 
        ![](circuit.jpeg)
+
+
+       
